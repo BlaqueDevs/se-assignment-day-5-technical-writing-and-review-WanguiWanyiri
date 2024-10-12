@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16192949&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
-Knowing the experience level your audience has can help simplify or add complexity to the information you share. Tech folks, we can get geeky -- talking code & deeper concepts; assuming a higher level of prior knowledge. When speaking to the layman you need to give more concise explanations, use stories and analogies of things theyll understand and even leave out overly complex terms that will detract from your point. This method can make the content easier and meaningful to find its utility in audience.
+Knowing the experience level your audience has can help simplify or add complexity to the information you share. Tech folks, we can get geeky talking code & deeper concepts; assuming a higher level of prior knowledge. When speaking to the layman you need to give more concise explanations, use stories and analogies of things theyll understand and even leave out overly complex terms that will detract from your point. This method can make the content easier and meaningful to find its utility in audience.
 ## 2. What are some strategies to tailor your content to different audience types?
 1. Assess the audience's expertise level.
 2. Adjust the complexity of language and concepts.
